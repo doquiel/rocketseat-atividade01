@@ -1,1 +1,1 @@
-Projeto simples feito para correcao no curso Explorer da Rocket Seat.
+Upload feito para correção de um projeto simples do curso Explorer da Rocket Seat.
